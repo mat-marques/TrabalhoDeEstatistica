@@ -1,1 +1,0 @@
-O resultado da função que usamos, descrita no 9entrada.txt é 23.202391 

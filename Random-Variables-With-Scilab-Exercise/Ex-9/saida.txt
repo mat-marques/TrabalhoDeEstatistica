@@ -1,0 +1,1 @@
+O resultado da função que usamos, descrita na entrada é 23.202391 

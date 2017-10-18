@@ -13,4 +13,5 @@ z = 0
 
 for i=0:10,z = z + ((%e^-lambda*(lambda^i))/factorial(i));end;
 
+printf("O valor de z é: %lf", z);
 //Z DEVE SER IGUAL A 0.8
