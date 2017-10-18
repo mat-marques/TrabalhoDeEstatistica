@@ -1,0 +1,4 @@
+Digite a quantidade de elementos.
+18
+Digite a quantidade de combinações desejadas.
+4
