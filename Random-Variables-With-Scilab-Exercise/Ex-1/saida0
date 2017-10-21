@@ -1,0 +1,22 @@
+a)
+Se os valores de 0 <= fx <= 1 e o somatorio de fx = 1. então fx é mass function.
+Como os valores de 0 <= fx <= 1 e o somatorio de fx = 1.000000, então fx é mass function.
+
+c)
+Os valores da função acumulativa são:
+0.060000 0.230000 0.450000 0.730000 0.900000 1.000000 
+
+d)
+Média: 2.630000
+
+Variança: 8.790000
+
+Desvio padrão: 3.523879
+
+e)
+skewness: -0.002290
+kurtosis: -2.948999
+
+f)
+Os valores da função gx são:
+0.000000 2.000000 6.000000 12.000000 20.000000 30.000000 

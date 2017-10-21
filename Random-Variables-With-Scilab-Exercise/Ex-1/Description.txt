@@ -9,5 +9,5 @@ fX(x)| 0.06 0.17 0.22 0.28 0.17 0.1 |
 (c) Obtain and plot the cumulative distribution function for X.
 (d) Determine the mean, variance, and standard deviation of X.
 (e) Determine the skewness and kurtosis of the probability mass function.
-(f) Determine the expectation E[g(X)] for the function g(X) = X 2 +X.
+(f) Determine the expectation E[g(X)] for the function g(X) = X^2 + X.
 
