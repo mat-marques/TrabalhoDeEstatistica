@@ -1,0 +1,34 @@
+a) Como o valor de sumX=1 e sumY=1 então essa tabela representa uma função massa de probabilidade
+
+b) Ver imagem -> hist3D - mass_function.png
+
+c) fX  = 
+
+   !    0.1 !
+   !    0.29!
+   !    0.43!
+   !    0.18!
+   
+   fY  = 
+
+   !    0.17   0.38   0.34   0.11!
+   
+   ver imagem -> hist3D - cumulative_distributive_function.png
+
+d) média de X = 2.19
+   variância de X = 0.7739
+   desvio padrão de X = 0.8797159
+   
+e) média de Y = 2.39
+   variância de Y = 0.7979
+   desvio padrão de Y = 0.8932525
+   
+f) FXY  = 
+
+   !    0.05   0.08   0.09   0.1 !
+   !    0.06   0.24   0.35   0.39!
+   !    0.14   0.44   0.73   0.82!
+   !    0.17   0.55   0.89   1.  !
+   
+g)  Covariância = 0.0709
+    Coeficiente de correlação = 0.0902256
