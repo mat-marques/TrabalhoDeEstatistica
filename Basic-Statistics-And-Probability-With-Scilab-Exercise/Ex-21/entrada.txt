@@ -1,0 +1,2 @@
+Dias: Monday, Tuesday, Wednesday, ou Thursday 
+Horários: 8 A.M., 1 P.M., ou 2 P.M
